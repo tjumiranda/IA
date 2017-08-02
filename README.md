@@ -38,6 +38,7 @@
 * [Transfer learning(uso de red preentrenada, sustituyendo las ultimas capas) utilizando arquitectura vgg16](https://github.com/llealgt/Tensorflow_transfer_learning)
 * [Reconcimiento de iamgenes para usuarios de la convencion](LINK)
 * [Reconomiento de Voz Veronica](https://drive.google.com/open?id=0B79nSJbWXueEby1kV1ZtRm9rZ0k)
+* [Reconomiento de Voz e Imágenes](https://drive.google.com/open?id=0ByLHSp4ns4YvS0hnRl9mMTR5b28)
 
 
 # VIDEOS
